@@ -24,7 +24,7 @@ RESULT
 </div>
 
 **2. Samples**  
-![5](https://user-images.githubusercontent.com/19617361/41084906-5e9152a8-6a70-11e8-9d52-3f2293698ea3.png)
+![5](https://user-images.githubusercontent.com/19617361/41084949-81eb3ef8-6a70-11e8-8cab-cec235763120.png)
 ![6](https://user-images.githubusercontent.com/19617361/41084919-6854f8e4-6a70-11e8-9727-34b6fa91f8f9.png)
 
 

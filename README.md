@@ -1,7 +1,7 @@
 # RVAE_KOREAN_SONG
 
 Paper   : Generating Sentences from a Continuous Space  
-Dataset : korean song
+Dataset : korean song(melon_top100.ipynb)
 
 ARCHITECTURE
 -------------------------------------------------------------------
